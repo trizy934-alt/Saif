@@ -1,0 +1,10 @@
+name = "roblox-discord-bot"
+main = "src/index.js"
+compatibility_date = "2024-03-01"
+
+[[kv_namespaces]]
+binding = "ROBLOX_KV"
+id = "c908677e855140a1912552d807443224"
+
+[triggers]
+crons = ["* * * * *"]
